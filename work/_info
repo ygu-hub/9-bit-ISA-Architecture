@@ -1,0 +1,359 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/18.0
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 DXx4 work 11 Definitions 0 22 0jf?^a^84V_U8O4a?ahVV1
+DXx4 work 11 ALU_sv_unit 0 22 8<=jf^__IPNj_anaXCoil2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Q7ICB=[3lj6E[[IcOOQ0P1
+IcBR1amle;P:=QR<DFKUZ]1
+!s105 ALU_sv_unit
+S1
+Z3 dC:/Users/z1zhong/141L
+Z4 w1660944211
+Z5 8C:/Users/z1zhong/141L/ALU.sv
+Z6 FC:/Users/z1zhong/141L/ALU.sv
+Z7 L0 11
+Z8 OV;L;10.6c;65
+Z9 !s108 1660950477.000000
+Z10 !s107 C:/Users/z1zhong/141L/ALU.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/ALU.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+n@a@l@u
+XALU_sv_unit
+R0
+R1
+V8<=jf^__IPNj_anaXCoil2
+r1
+!s85 0
+31
+!i10b 1
+!s100 GFT9QRmT]G64HOWkCkhPT0
+I8<=jf^__IPNj_anaXCoil2
+!i103 1
+S1
+R3
+R4
+R5
+R6
+L0 9
+R8
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@a@l@u_sv_unit
+vCtrl
+R0
+R1
+DXx4 work 12 Ctrl_sv_unit 0 22 14XRGALc6D7USk;7E2@Vd1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ma84gKZH:0=86X^=IGna22
+I6E:eAf2bLYDd<ki>GCN5H2
+!s105 Ctrl_sv_unit
+S1
+R3
+Z14 w1660950474
+Z15 8C:/Users/z1zhong/141L/Ctrl.sv
+Z16 FC:/Users/z1zhong/141L/Ctrl.sv
+L0 6
+R8
+Z17 !s108 1660950478.000000
+Z18 !s107 C:/Users/z1zhong/141L/Ctrl.sv|
+Z19 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/Ctrl.sv|
+!i113 1
+R12
+R13
+n@ctrl
+XCtrl_sv_unit
+R0
+R1
+V14XRGALc6D7USk;7E2@Vd1
+r1
+!s85 0
+31
+!i10b 1
+!s100 H]gz9LjiBEK>0EfSB;:HR0
+I14XRGALc6D7USk;7E2@Vd1
+!i103 1
+S1
+R3
+R14
+R15
+R16
+L0 2
+R8
+R17
+R18
+R19
+!i113 1
+R12
+R13
+n@ctrl_sv_unit
+vDataMem
+R0
+Z20 !s110 1660950478
+!i10b 1
+!s100 bIdOT]R7WN@D;fL?g5=S>1
+IeG3cQYSbZ5KoLz=9MdlBm1
+R2
+!s105 DataMem_sv_unit
+S1
+R3
+Z21 w1660943551
+8C:/Users/z1zhong/141L/DataMem.sv
+FC:/Users/z1zhong/141L/DataMem.sv
+L0 15
+R8
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/z1zhong/141L/DataMem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/DataMem.sv|
+!i113 1
+R12
+R13
+n@data@mem
+XDefinitions
+R0
+R20
+!i10b 1
+!s100 [5@nJQ]^zfOjlcE>lK@3G2
+I0jf?^a^84V_U8O4a?ahVV1
+V0jf?^a^84V_U8O4a?ahVV1
+S1
+R3
+R21
+8C:/Users/z1zhong/141L/Definitions.sv
+FC:/Users/z1zhong/141L/Definitions.sv
+L0 8
+R8
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/z1zhong/141L/Definitions.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/Definitions.sv|
+!i113 1
+R12
+R13
+n@definitions
+vencrypt_tb
+R0
+Z22 !s110 1660950479
+!i10b 1
+!s100 =>gLkNJZf>aZoR7L;>f=F1
+Ib?K90JEAPNQWaPX2[;S?C2
+R2
+!s105 program1_tb1_sv_unit
+S1
+R3
+R21
+8C:/Users/z1zhong/141L/program1_tb1.sv
+FC:/Users/z1zhong/141L/program1_tb1.sv
+L0 5
+R8
+r1
+!s85 0
+31
+Z23 !s108 1660950479.000000
+!s107 C:/Users/z1zhong/141L/program1_tb1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/program1_tb1.sv|
+!i113 1
+R12
+R13
+vImmediate_LUT
+R0
+R20
+!i10b 1
+!s100 TL3XPg7a@X_IP[G;FBH:g3
+IcbU8DNYF[hm[7mn62f=Lh2
+R2
+!s105 Immediate_LUT_sv_unit
+S1
+R3
+w1660949500
+8C:/Users/z1zhong/141L/Immediate_LUT.sv
+FC:/Users/z1zhong/141L/Immediate_LUT.sv
+L0 7
+R8
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/z1zhong/141L/Immediate_LUT.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/Immediate_LUT.sv|
+!i113 1
+R12
+R13
+n@immediate_@l@u@t
+vInstFetch
+R0
+R22
+!i10b 1
+!s100 O[53Afg6T@1aXeYcBgTGa1
+IWDeE`KQSglfh7Ehg_OQVY1
+R2
+!s105 InstFetch_sv_unit
+S1
+R3
+w1660948461
+8C:/Users/z1zhong/141L/InstFetch.sv
+FC:/Users/z1zhong/141L/InstFetch.sv
+L0 8
+R8
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/z1zhong/141L/InstFetch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/InstFetch.sv|
+!i113 1
+R12
+R13
+n@inst@fetch
+vInstROM
+R0
+R22
+!i10b 1
+!s100 _0j[67jkW]=EccU_HSH?13
+I=49[>>ESnk0lS6;:6HX;m3
+R2
+!s105 InstROM_sv_unit
+S1
+R3
+R21
+8C:/Users/z1zhong/141L/InstROM.sv
+FC:/Users/z1zhong/141L/InstROM.sv
+L0 13
+R8
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/z1zhong/141L/InstROM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/InstROM.sv|
+!i113 1
+R12
+R13
+n@inst@r@o@m
+vRegFile
+R0
+R22
+!i10b 1
+!s100 [ah[zi_fo1FihiG@@`D6:1
+IJ1QPG8WOA7F5em5Z=g8BZ0
+R2
+!s105 RegFile_sv_unit
+S1
+R3
+w1660945772
+8C:/Users/z1zhong/141L/RegFile.sv
+FC:/Users/z1zhong/141L/RegFile.sv
+R7
+R8
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/z1zhong/141L/RegFile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/RegFile.sv|
+!i113 1
+R12
+R13
+n@reg@file
+vtop_level
+R0
+R1
+DXx4 work 17 top_level_sv_unit 0 22 G@aNe7S<jOf>a@<Rf6DLY2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 VFMLJb9@CYcK]RfDcla3a2
+I?<jF6VQAzRAL;c9igdm8k2
+!s105 top_level_sv_unit
+S1
+R3
+Z24 w1660949956
+Z25 8C:/Users/z1zhong/141L/top_level.sv
+Z26 FC:/Users/z1zhong/141L/top_level.sv
+L0 5
+R8
+R23
+Z27 !s107 C:/Users/z1zhong/141L/top_level.sv|
+Z28 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/top_level.sv|
+!i113 1
+R12
+R13
+Xtop_level_sv_unit
+R0
+R1
+VG@aNe7S<jOf>a@<Rf6DLY2
+r1
+!s85 0
+31
+!i10b 1
+!s100 j5;gIY6N][>gjkiA4elWo0
+IG@aNe7S<jOf>a@<Rf6DLY2
+!i103 1
+S1
+R3
+R24
+R25
+R26
+L0 3
+R8
+R23
+R27
+R28
+!i113 1
+R12
+R13
+vTopLevel_tb
+R0
+!s110 1660950480
+!i10b 1
+!s100 `d^Vz]g2__eMg>h7JcNfR3
+IMEG=ERn@6]E5O`ISa>kmi2
+R2
+!s105 TopLevel_tb_sv_unit
+S1
+R3
+w1660948380
+8C:/Users/z1zhong/141L/TopLevel_tb.sv
+FC:/Users/z1zhong/141L/TopLevel_tb.sv
+L0 8
+R8
+r1
+!s85 0
+31
+!s108 1660950480.000000
+!s107 C:/Users/z1zhong/141L/TopLevel_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/z1zhong/141L/TopLevel_tb.sv|
+!i113 1
+R12
+R13
+n@top@level_tb

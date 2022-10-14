@@ -1,0 +1,9 @@
+modelsim/
+modelsim2/
+DemoProcessor/
+quartus/
+/*.mti
+/*.mpf
+/*.wlf
+**/__pycache__
+*lab*/

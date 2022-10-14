@@ -1,0 +1,8 @@
+SHF r1 1
+ADD r1 1
+SHF r1 1
+ADD r1 1
+SHF r1 1
+ADD r1 1
+SHF r1 2
+ADD r1 1

@@ -1,0 +1,37 @@
+r1 = 1
+while(r1 < 10){
+    r1 = r1 + 1;
+}
+prelod: movi r6 #10 movi r3, #1 movi r5 1
+
+
+0  mov r1 r3 //r1 = r3
+1  bge 4      //if r5 >= r6    
+2  add r1, r3 //r1 = r1 + r3
+3  mov r5, r1 //r5 = r1
+4  blt -2     //if r5 < r6
+5  bx lr
+
+mem[41-50] -> mem[51-60]
+preload: movi r6 #50, movi r5 #41, movi r7 #51
+0 movi r1, #0
+1 bgt 7
+2 movi r1, #1
+3 dr r4, [r5]
+4 add r5, r1
+5 str r4, [r7]
+6 add r7, r1
+7 ble -4
+8 bx lr
+
+preload: movi r6 #41, movi r3 #1, movi r5 #51, movi r7 #41
+0  movi r1, #0
+1  bgt        //if r5 > r6
+2  ldr r4, [r6]
+3  add r6, r3
+   mov r1 r6
+   sub r1, r7
+   add r1, r5
+6  str r4, [r1]
+7  ble -
+8  bx lr
